@@ -1,7 +1,6 @@
-# zphisher
-# zphisher 
-# zphishing
-<!-- Zphisher -->
+#  Detection and Mitigation of Denial of Service (DoS) Attacks
+# DOS ATTACK
+<!-- : Detection and Mitigation of Denial of Service (DoS) Attacks -->
 
 <p align="center">
   <img src="https://media.istockphoto.com/photos/grim-reaper-picture-id827848238?b=1&k=20&m=827848238&s=170667a&w=0&h=IaEMzVz0q7lOzp8mn0aotvZn6cYZJRV8xniPA_kmGf8=">
